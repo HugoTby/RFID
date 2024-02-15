@@ -61,5 +61,5 @@ Les fichiers et répertoires sont organisés comme suit:
 - `connexion.php` : Page de connexion.
 - `inscription.php` : Page d'inscription.
 - `readme.md` : Documentation du code (ce fichier).
-
+ 
 > **Conseil** : Pour une meilleure compréhension du projet, n'hésitez pas à parcourir chaque fichier et répertoire.
